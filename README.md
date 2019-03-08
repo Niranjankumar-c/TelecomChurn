@@ -4,8 +4,21 @@ Customer Retention Rate has a strong impact on the customer lifetime value.Under
 # Project Objective
  1. The goal of the study is to apply analytical techniques to predict a customer churn and analyse the churning and non-churning customers.
  2. Develop a system through which the client could identify the customer churn rate and decide what should be the appropriate incentive for them.
+ 
+## Project Results
+- Gain chart tells you how well is your model segregating responders from non-responders.
 
+<img src="Images/GainChart.PNG" alt="GAIN CHART" width="400" align="middle">
 
+- Lift chart compares the response rates with and without using the classification model.
+<img src="Images/LiftChart.PNG" alt="LIFT CHART" width="400" align="middle">
+
+## How to Use
+The Installation process will get you a copy of the project up and running on your local machine for development and testing purposes
+1. Clone or download the project into your local machine.
+2. Unzip the project folder.
+3. Open the source file [TelecomChurnAnalysis Model](WHTA_TelecomChurnAnalysis.ipynb) using [JypyterNotebook](http://jupyter.org/) and execute the file.
+4. Instead of step 3, use the classification model loaded in the pickle object to classify churners directly.
 
 ## Repository Contains
  - Data -- Contains the raw data folder
