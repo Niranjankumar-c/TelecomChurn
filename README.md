@@ -7,7 +7,7 @@ Customer Retention Rate has a strong impact on the customer lifetime value.Under
 
 
 
-### Repository Contains
+## Repository Contains
  - Data -- Contains the raw data folder
  - Images -- Folder contains the images used in python notebook 
  - [TelecomChurnSummary Report](TELECOMCHURNMANAGEMENT.pdf) -- Telecom churn project report
@@ -17,6 +17,12 @@ Customer Retention Rate has a strong impact on the customer lifetime value.Under
 This project was a part of WHTA course curriculum at praxis business school.
 
 If there are any issues in the code, raise them [here](https://github.com/Niranjankumar-c/TelecomChurn/issues)
+
+## Author
+- Connect with me on [linkedin](https://www.linkedin.com/in/niranjankumar-c/).
+- Follow me on medium for blogs related to machine learning & deeplearning: 
+    - https://towardsdatascience.com/@niranjankumarc
+    - https://hackernoon.com/@niranjankumarc
 
 ### License
 The code and files in this repository is made available for free released under [MIT](LICENSE).
