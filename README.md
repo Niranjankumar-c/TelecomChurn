@@ -13,6 +13,8 @@ Customer Retention Rate has a strong impact on the customer lifetime value.Under
  - [TelecomChurnSummary Report](TELECOMCHURNMANAGEMENT.pdf) -- Telecom churn project report
  - [TelecomChurnAnalysis Model](WHTA_TelecomChurnAnalysis.ipynb) -- Project source code file
  - [TelecomChurn-KSChart](TelecomChurn-KSChart.xlsx) -- Excel template to generate lift and gain chart
+ 
+If there are any issues in the code, raise them [here](https://github.com/Niranjankumar-c/TelecomChurn/issues)
 
 ### License
 The code and files in this repository is made available for free released under [MIT](LICENSE).
